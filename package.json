@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "pdf:submission": "npx --yes md-to-pdf docs/ASSIGNMENT_SUBMISSION.md --document-title \"Linq Support Copilot — Assignment Submission\""
   },
   "dependencies": {
     "next": "16.2.3",
