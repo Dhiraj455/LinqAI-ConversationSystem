@@ -4,6 +4,8 @@
 
 ---
 1. [Loom Video Demo](https://www.loom.com/share/2a970d5875cf4908829c348d412cbf82)  
+2. [Github Repo](https://github.com/Dhiraj455/LinqAI-ConversationSystem)  
+
 
 ## Table of contents
 
